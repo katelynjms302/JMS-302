@@ -1,3 +1,5 @@
+# Katelyn Armstrong and Kyle Jones
+
 puts "Hello, what is your first name?"
 f_name= gets.chomp
     

@@ -1,3 +1,4 @@
+# Katelyn Armstrong and Kyle Jones
 
 puts "Please enter grades, one at a time.  When done, enter 'done'." 
 

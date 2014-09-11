@@ -1,3 +1,5 @@
+# Katelyn Armstrong and Kyle Jones
+
 puts "What is your first name?"
 f_name= gets.chomp
 puts "What is your middle name?"

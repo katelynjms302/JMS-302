@@ -1,3 +1,5 @@
+# Katelyn Armstrong and Kyle Jones
+
 grades = [ ]
 puts "What was your frist grade?"
 grade1= gets.chomp.to_i
