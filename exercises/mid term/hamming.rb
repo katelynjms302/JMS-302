@@ -30,3 +30,4 @@ strands=get_strands
 hamming= hamming strands
 
 puts "The hamming difference is #{hamming}."
+
